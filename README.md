@@ -4,7 +4,7 @@
 
 Explore lighting, materials and image edits, or turn an architectural image into a video. Start with a viewport frame, a completed render or an image file. Use your own cloud provider keys or an existing local ComfyUI installation.
 
-**[Download personal beta](https://github.com/3dklyn/3dklyn-plugin/releases/latest)** · [Website and examples](https://3dklyn.com/) · [Installation guide](docs/INSTALLATION.md) · [Get support](https://3dklyn.com/messages.html)
+**[Download personal beta](https://github.com/3dklyn/3dklyn-plugin/releases/tag/v1.34.27)** · [Website and examples](https://3dklyn.com/) · [Installation guide](docs/INSTALLATION.md) · [Get support](https://3dklyn.com/messages.html)
 
 ## From viewport to image
 
@@ -40,7 +40,7 @@ Other 3ds Max versions have not been verified. These host checks do not establis
 
 ## Start here
 
-1. Download the `.mzp` from [Releases](https://github.com/3dklyn/3dklyn-plugin/releases/latest) and [verify its checksum](docs/VERIFY.md).
+1. Download the `.mzp` from [Releases](https://github.com/3dklyn/3dklyn-plugin/releases/tag/v1.34.27) and [verify its checksum](docs/VERIFY.md).
 2. Save your work and open a fresh 3ds Max session.
 3. Choose **Scripting → Run Script**, select the MZP, read the Personal Beta Terms and click **Install beta**.
 4. Open **API**, configure your own provider key or ComfyUI server, then try one small image.

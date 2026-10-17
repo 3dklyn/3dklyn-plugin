@@ -4,7 +4,7 @@ For **3DKLYN Personal Beta 1.34.27 · Build 97** on Windows. Installation, resta
 
 ## Install
 
-1. Get `3DKLYN-personal-beta-1.34.27.mzp` from the [release page](https://github.com/3dklyn/3dklyn-plugin/releases/latest).
+1. Get `3DKLYN-personal-beta-1.34.27.mzp` from the [release page](https://github.com/3dklyn/3dklyn-plugin/releases/tag/v1.34.27).
 2. [Verify the SHA-256 checksum](VERIFY.md).
 3. Save your scene and open a fresh 3ds Max session.
 4. Choose **Scripting → Run Script** and select the MZP.
